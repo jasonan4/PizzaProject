@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Amount
+  - SubtotalAmount
+  - PizzaSize
+  - Cheese
+  - Pepperoni
+  - Sausage
+  - Ham
+  - Green Pepper
+  - Onion
+  - Tomato
+  - Mushroom
+  - Pineapple
+  - Small
+  - Medium
+  - Large
+  - X-Large
+  - Thin
+  - Regular
+  - Pan
+  - .10
+  - .15
+  - .20
+  - custom
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 328808531
+    locked: 0
